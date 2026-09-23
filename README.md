@@ -28,12 +28,7 @@
 
 <br/>
 
-### <img src="https://img.shields.io/badge/About_Me-2ECC71?style=flat-square&labelColor=0D1117" alt="About Me" />
-
-<table width="100%">
-<tr>
-<td width="10"></td>
-<td>
+## About Me
 
 I architect and build **test automation frameworks** that catch
 bugs before they reach production. My approach combines
@@ -45,15 +40,7 @@ test architecture using **Playwright + TypeScript** that
 implements domain-driven test design, automated evidence
 collection, and CI/CD integration for enterprise web apps.
 
-</td>
-<td width="10"></td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="10"></td>
-<td>
+<br/>
 
 **What I bring to the team:**
 
@@ -64,16 +51,11 @@ collection, and CI/CD integration for enterprise web apps.
 | <img src="https://img.shields.io/badge/-Strategy-2ECC71?style=flat-square" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
 | <img src="https://img.shields.io/badge/-Engineering-2ECC71?style=flat-square" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
 
-</td>
-<td width="10"></td>
-</tr>
-</table>
-
 <br/>
 
 ---
 
-### <img src="https://img.shields.io/badge/Tech_Stack-2ECC71?style=flat-square&labelColor=0D1117" alt="Tech Stack" />
+## Tech Stack
 
 <table>
 <tr>
@@ -120,7 +102,7 @@ collection, and CI/CD integration for enterprise web apps.
 
 ---
 
-### <img src="https://img.shields.io/badge/Featured_Projects-2ECC71?style=flat-square&labelColor=0D1117" alt="Featured Projects" />
+## Featured Projects
 
 <table>
 <tr>
@@ -171,7 +153,7 @@ patterns, framework evolution, and quality engineering techniques.
 
 ---
 
-### <img src="https://img.shields.io/badge/What_Im_Exploring-2ECC71?style=flat-square&labelColor=0D1117" alt="Exploring" />
+## What I'm Exploring
 
 ```yaml
 current_focus:
