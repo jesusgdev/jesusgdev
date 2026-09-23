@@ -37,6 +37,8 @@
 
 </div>
 
+<br/>
+
 ## About Me
 
 I architect and build **test automation frameworks** that catch bugs before they reach production. My approach combines **risk-based testing strategies** with engineering precision to deliver quality at scale.
@@ -174,7 +176,7 @@ looking_at:
 
 <div align="center">
 
-### "Quality is not an act, it is a habit."
+### *"Quality is not an act, it is a habit."*
 *— Aristotle*
 
 <br/>
