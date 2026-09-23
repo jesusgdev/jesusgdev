@@ -55,7 +55,7 @@ collection, and CI/CD integration for enterprise web apps.
 
 ---
 
-## Tech Stack
+## 🧱 Tech Stack
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ collection, and CI/CD integration for enterprise web apps.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -153,7 +153,7 @@ patterns, framework evolution, and quality engineering techniques.
 
 ---
 
-## What I'm Exploring
+## 🔍 What I'm Exploring
 
 ```yaml
 current_focus:
