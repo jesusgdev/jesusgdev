@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Typing Animation — Inter font for Apple-style clean sans-serif -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Building+Quality+at+Scale;Playwright+%7C+TypeScript+%7C+KATA+Architecture;Test+Automation+%26+CI%2FCD" alt="Typing SVG" />
 </a>
@@ -28,28 +28,52 @@
 
 <br/>
 
-## About Me
+### <img src="https://img.shields.io/badge/About_Me-2ECC71?style=flat-square&labelColor=0D1117" alt="About Me" />
 
-I architect and build **test automation frameworks** that catch bugs before they reach production. My approach combines **risk-based testing strategies** with engineering precision to deliver quality at scale.
+<table width="100%">
+<tr>
+<td width="10"></td>
+<td>
 
-Currently evolving the **Bunkai QA Framework** — a KATA-based test architecture using **Playwright + TypeScript** that implements domain-driven test design, automated evidence collection, and CI/CD integration for enterprise web applications.
+I architect and build **test automation frameworks** that catch
+bugs before they reach production. My approach combines
+**risk-based testing strategies** with engineering precision
+to deliver quality at scale.
 
-<br/>
+Currently evolving the **Bunkai QA Framework** — a KATA-based
+test architecture using **Playwright + TypeScript** that
+implements domain-driven test design, automated evidence
+collection, and CI/CD integration for enterprise web apps.
+
+</td>
+<td width="10"></td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="10"></td>
+<td>
 
 **What I bring to the team:**
 
 | Area | Focus |
-|---|---|
-| **Test Architecture** | Designing scalable frameworks that grow with the product |
-| **Automation First** | E2E, API, and integration testing with measurable coverage |
-| **Quality Strategy** | Shift-left practices, risk analysis, and release readiness |
-| **Engineering Rigor** | TypeScript, CI/CD pipelines, and reproducible test environments |
+|:---|:---|
+| <img src="https://img.shields.io/badge/-Architecture-2ECC71?style=flat-square" alt="Architecture" /> | Designing scalable frameworks that grow with the product |
+| <img src="https://img.shields.io/badge/-Automation-2ECC71?style=flat-square" alt="Automation" /> | E2E, API, and integration testing with measurable coverage |
+| <img src="https://img.shields.io/badge/-Strategy-2ECC71?style=flat-square" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
+| <img src="https://img.shields.io/badge/-Engineering-2ECC71?style=flat-square" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
+
+</td>
+<td width="10"></td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-## Tech Stack
+### <img src="https://img.shields.io/badge/Tech_Stack-2ECC71?style=flat-square&labelColor=0D1117" alt="Tech Stack" />
 
 <table>
 <tr>
@@ -96,7 +120,7 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 
 ---
 
-## Featured Projects
+### <img src="https://img.shields.io/badge/Featured_Projects-2ECC71?style=flat-square&labelColor=0D1117" alt="Featured Projects" />
 
 <table>
 <tr>
@@ -108,7 +132,9 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 
 `TypeScript` · `Playwright` · `KATA Architecture`
 
-A production-grade test automation framework implementing **KATA (Komponent Action Test Architecture)** — a domain-driven test design with layered architecture for enterprise web applications.
+A production-grade test automation framework implementing
+**KATA (Komponent Action Test Architecture)** — a domain-driven
+test design with layered architecture for enterprise apps.
 
 - Domain-driven ATC (Action Test Component) design
 - Playwright + TypeScript E2E & API testing
@@ -127,7 +153,8 @@ A production-grade test automation framework implementing **KATA (Komponent Acti
 
 `TypeScript` · `Playwright` · `Testing Sandbox`
 
-A personal testing laboratory for experimenting with automation patterns, framework evolution, and quality engineering techniques.
+A personal testing laboratory for experimenting with automation
+patterns, framework evolution, and quality engineering techniques.
 
 - Framework pattern exploration
 - Playwright test architecture experiments
@@ -144,14 +171,14 @@ A personal testing laboratory for experimenting with automation patterns, framew
 
 ---
 
-## What I'm Exploring
+### <img src="https://img.shields.io/badge/What_Im_Exploring-2ECC71?style=flat-square&labelColor=0D1117" alt="Exploring" />
 
 ```yaml
 current_focus:
-  - AI-Augmented Testing — LLM-powered test case generation and evaluation
+  - AI-Augmented Testing — LLM-powered test generation
   - Visual Regression — Screenshot comparison with Playwright
-  - Shift-Left QA — AC refinement, risk scoring, and quality gates pre-sprint
-  - Test Architecture — KATA patterns, domain-driven test design
+  - Shift-Left QA — AC refinement and quality gates pre-sprint
+  - Test Architecture — KATA patterns, domain-driven design
 
 looking_at:
   - Performance Testing — k6, Lighthouse CI
