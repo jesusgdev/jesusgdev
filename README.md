@@ -30,15 +30,9 @@
 
 ## About Me
 
-I architect and build **test automation frameworks** that catch bugs
-before they reach production. My approach combines **risk-based
-testing strategies** with engineering precision to deliver
-**quality at scale**.
+I architect and build **test automation frameworks** that catch bugs before they reach production. My approach combines **risk-based testing strategies** with engineering precision to deliver **quality at scale**.
 
-Currently evolving the **Bunkai QA Framework** — a KATA-based test
-architecture using **Playwright + TypeScript** that implements
-domain-driven test design, automated evidence collection, and
-**CI/CD integration** for enterprise web apps.
+Currently evolving the **Bunkai QA Framework** — a KATA-based test architecture using **Playwright + TypeScript** that implements domain-driven test design, automated evidence collection, and **CI/CD integration** for enterprise web apps.
 
 <br/>
 
@@ -55,20 +49,7 @@ domain-driven test design, automated evidence collection, and
 
 ---
 
-<svg width="0" height="0">
-  <defs>
-    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2ECC71" />
-      <stop offset="100%" style="stop-color:#1A7F37" />
-    </linearGradient>
-  </defs>
-</svg>
-
-<h1 align="left">
-  <svg width="400" height="40" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="30" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#greenGrad)">🧱 Tech Stack</text>
-  </svg>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=0&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=400&height=40&lines=Tech+Stack" alt="Tech Stack Header" />
 
 <table>
 <tr>
@@ -115,11 +96,7 @@ domain-driven test design, automated evidence collection, and
 
 ---
 
-<h1 align="left">
-  <svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="30" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#greenGrad)">🚀 Featured Projects</text>
-  </svg>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=0&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=Featured+Projects" alt="Featured Projects Header" />
 
 <table>
 <tr>
@@ -131,9 +108,7 @@ domain-driven test design, automated evidence collection, and
 
 `TypeScript` · `Playwright` · `KATA Architecture`
 
-A production-grade test automation framework implementing
-**KATA (Komponent Action Test Architecture)** — a domain-driven
-test design with layered architecture for enterprise apps.
+A production-grade test automation framework implementing **KATA (Komponent Action Test Architecture)** — a domain-driven test design with layered architecture for enterprise apps.
 
 - Domain-driven ATC (Action Test Component) design
 - Playwright + TypeScript E2E & API testing
@@ -152,8 +127,7 @@ test design with layered architecture for enterprise apps.
 
 `TypeScript` · `Playwright` · `Testing Sandbox`
 
-A personal testing laboratory for experimenting with automation
-patterns, framework evolution, and quality engineering techniques.
+A personal testing laboratory for experimenting with automation patterns, framework evolution, and quality engineering techniques.
 
 - Framework pattern exploration
 - Playwright test architecture experiments
@@ -170,11 +144,7 @@ patterns, framework evolution, and quality engineering techniques.
 
 ---
 
-<h1 align="left">
-  <svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="30" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#greenGrad)">🔍 What I'm Exploring</text>
-  </svg>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=0&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=What+I'm+Exploring" alt="Exploring Header" />
 
 ```yaml
 current_focus:
@@ -195,9 +165,7 @@ looking_at:
 
 <div align="center">
 
-<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-  <text x="250" y="35" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="400" font-style="italic" fill="#8B949E" text-anchor="middle">"Quality is not an act, it is a habit."</text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=0&pause=0&color=8B949E&center=true&vCenter=true&multiline=true&width=500&height=40&lines=%22Quality+is+not+an+act,+it+is+a+habit.%22" alt="Quote" />
 
 *— Aristotle*
 
