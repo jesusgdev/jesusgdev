@@ -30,32 +30,45 @@
 
 ## About Me
 
-I architect and build **test automation frameworks** that catch
-bugs before they reach production. My approach combines
-**risk-based testing strategies** with engineering precision
-to deliver quality at scale.
+I architect and build **test automation frameworks** that catch bugs
+before they reach production. My approach combines **risk-based
+testing strategies** with engineering precision to deliver
+**quality at scale**.
 
-Currently evolving the **Bunkai QA Framework** — a KATA-based
-test architecture using **Playwright + TypeScript** that
-implements domain-driven test design, automated evidence
-collection, and CI/CD integration for enterprise web apps.
+Currently evolving the **Bunkai QA Framework** — a KATA-based test
+architecture using **Playwright + TypeScript** that implements
+domain-driven test design, automated evidence collection, and
+**CI/CD integration** for enterprise web apps.
 
 <br/>
 
 **What I bring to the team:**
 
-| Area | Focus |
+| | |
 |:---|:---|
-| <img src="https://img.shields.io/badge/-Architecture-2ECC71?style=flat-square" alt="Architecture" /> | Designing scalable frameworks that grow with the product |
-| <img src="https://img.shields.io/badge/-Automation-2ECC71?style=flat-square" alt="Automation" /> | E2E, API, and integration testing with measurable coverage |
-| <img src="https://img.shields.io/badge/-Strategy-2ECC71?style=flat-square" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
-| <img src="https://img.shields.io/badge/-Engineering-2ECC71?style=flat-square" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
+| <img src="https://img.shields.io/badge/Architecture-2ECC71?style=flat-square" alt="Architecture" /> | Designing scalable frameworks that grow with the product |
+| <img src="https://img.shields.io/badge/Automation-2ECC71?style=flat-square" alt="Automation" /> | E2E, API, and integration testing with measurable coverage |
+| <img src="https://img.shields.io/badge/Strategy-2ECC71?style=flat-square" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
+| <img src="https://img.shields.io/badge/Engineering-2ECC71?style=flat-square" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
 
 <br/>
 
 ---
 
-## 🧱 Tech Stack
+<svg width="0" height="0">
+  <defs>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2ECC71" />
+      <stop offset="100%" style="stop-color:#1A7F37" />
+    </linearGradient>
+  </defs>
+</svg>
+
+<h1 align="left">
+  <svg width="400" height="40" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="30" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#greenGrad)">🧱 Tech Stack</text>
+  </svg>
+</h1>
 
 <table>
 <tr>
@@ -102,7 +115,11 @@ collection, and CI/CD integration for enterprise web apps.
 
 ---
 
-## 🚀 Featured Projects
+<h1 align="left">
+  <svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="30" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#greenGrad)">🚀 Featured Projects</text>
+  </svg>
+</h1>
 
 <table>
 <tr>
@@ -153,7 +170,11 @@ patterns, framework evolution, and quality engineering techniques.
 
 ---
 
-## 🔍 What I'm Exploring
+<h1 align="left">
+  <svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="30" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="700" fill="url(#greenGrad)">🔍 What I'm Exploring</text>
+  </svg>
+</h1>
 
 ```yaml
 current_focus:
@@ -174,7 +195,10 @@ looking_at:
 
 <div align="center">
 
-### *"Quality is not an act, it is a habit."*
+<svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="250" y="35" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="400" font-style="italic" fill="#8B949E" text-anchor="middle">"Quality is not an act, it is a habit."</text>
+</svg>
+
 *— Aristotle*
 
 <br/>
