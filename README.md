@@ -1,29 +1,29 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A7F37,100:2ECC71&height=220&section=header&text=Jesús%20García&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Test%20Architect&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A7F37,100:2ECC71&height=220&section=header&text=Jes%C3%BAs%20Garc%C3%ADa&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%20Test%20Architect&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="Profile Banner" />
 
 <br/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation — Inter font for Apple-style clean sans-serif -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Quality+at+Scale;Playwright+%7C+TypeScript+%7C+KATA+Architecture;Test+Automation+%26+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Building+Quality+at+Scale;Playwright+%7C+TypeScript+%7C+KATA+Architecture;Test+Automation+%26+CI%2FCD" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges - Apple Style -->
-<a href="https://linkedin.com/in/jesús-garcía-74a491277" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+<!-- Social Badges — flat-square for Apple-style minimalism -->
+<a href="https://linkedin.com/in/jes%C3%BAs-garc%C3%ADa-74a491277" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="mailto:jesesus.testing.qa@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
 </a>
 <a href="https://github.com/jesusgdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
 </a>
 <a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank">
-  <img src="https://img.shields.io/badge/📂_Repos-2ECC71?style=for-the-badge&labelColor=0D1117&color=2ECC71" alt="Repos" />
+  <img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&labelColor=0D1117&color=2ECC71" alt="Repos" />
 </a>
 
 <br/><br/>
@@ -46,10 +46,13 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 <br/>
 
 **What I bring to the team:**
-- **Test Architecture** — Designing scalable frameworks that grow with the product
-- **Automation First** — E2E, API, and integration testing with measurable coverage
-- **Quality Strategy** — Shift-left practices, risk analysis, and release readiness
-- **Engineering Rigor** — TypeScript, CI/CD pipelines, and reproducible test environments
+
+| Area | Focus |
+|---|---|
+| **Test Architecture** | Designing scalable frameworks that grow with the product |
+| **Automation First** | E2E, API, and integration testing with measurable coverage |
+| **Quality Strategy** | Shift-left practices, risk analysis, and release readiness |
+| **Engineering Rigor** | TypeScript, CI/CD pipelines, and reproducible test environments |
 
 <br/>
 
@@ -63,36 +66,36 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 
 **Core**
 <br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 </td>
 <td align="center" width="25%">
 
 **Test Frameworks**
 <br/><br/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /><br/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /><br/>
-<img src="https://img.shields.io/badge/Allure-FF6347?style=for-the-badge&logo=testrail&logoColor=white" alt="Allure" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /><br/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" /><br/>
+<img src="https://img.shields.io/badge/Allure-FF6347?style=flat-square&logo=testrail&logoColor=white" alt="Allure" />
 
 </td>
 <td align="center" width="25%">
 
 **DevOps & Infra**
 <br/><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </td>
 <td align="center" width="25%">
 
 **QA & Tools**
 <br/><br/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /><br/>
-<img src="https://img.shields.io/badge/Xray-2C8E5B?style=for-the-badge" alt="Xray" /><br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /><br/>
+<img src="https://img.shields.io/badge/Xray-2C8E5B?style=flat-square" alt="Xray" /><br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
 </td>
 </tr>
@@ -109,7 +112,7 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 <td width="50%" valign="top">
 
 <a href="https://github.com/jesusgdev/bunkai-qa-engineering-jesusdev">
-<img src="https://img.shields.io/badge/Bunkai_QA_Framework-2ECC71?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="Bunkai" />
+<img src="https://img.shields.io/badge/Bunkai_QA_Framework-2ECC71?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" alt="Bunkai" />
 </a>
 
 `TypeScript` · `Playwright` · `KATA Architecture`
@@ -128,7 +131,7 @@ A production-grade test automation framework implementing **KATA (Komponent Acti
 <td width="50%" valign="top">
 
 <a href="https://github.com/jesusgdev/my-dojo-lab">
-<img src="https://img.shields.io/badge/My_Dojo_Lab-FF6347?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="Dojo Lab" />
+<img src="https://img.shields.io/badge/My_Dojo_Lab-FF6347?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" alt="Dojo Lab" />
 </a>
 
 `TypeScript` · `Playwright` · `Testing Sandbox`
@@ -176,6 +179,6 @@ looking_at:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jesusgdev&color=2ECC71&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jesusgdev&color=2ECC71&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
