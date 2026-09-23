@@ -10,23 +10,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Building+Quality+at+Scale;Playwright+%7C+TypeScript+%7C+KATA+Architecture;Test+Automation+%26+CI%2FCD" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Social Badges — flat-square for Apple-style minimalism -->
-<a href="https://linkedin.com/in/jes%C3%BAs-garc%C3%ADa-74a491277" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="mailto:jesesus.testing.qa@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-</a>
-<a href="https://github.com/jesusgdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-</a>
-<a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank">
-  <img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&labelColor=0D1117&color=2ECC71" alt="Repos" />
-</a>
-
 <br/><br/>
+
+<!-- Social Badges — table layout for precise spacing, no link wrappers to avoid blue corner marks -->
+<table>
+<tr>
+<td><a href="https://linkedin.com/in/jes%C3%BAs-garc%C3%ADa-74a491277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a></td>
+<td width="8"></td>
+<td><a href="mailto:jesesus.testing.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a></td>
+<td width="8"></td>
+<td><a href="https://github.com/jesusgdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a></td>
+<td width="8"></td>
+<td><a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank"><img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&logo=github&logoColor=white&labelColor=2ECC71" alt="Repos" /></a></td>
+</tr>
+</table>
+
+<br/>
 
 <!-- Status Line -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesusgdev&theme=dark&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&border=21262D" width="700" alt="GitHub Streak Stats" />
