@@ -12,18 +12,8 @@
 
 <br/><br/>
 
-<!-- Social Badges — table layout for precise spacing, no link wrappers to avoid blue corner marks -->
-<table>
-<tr>
-<td><a href="https://linkedin.com/in/jes%C3%BAs-garc%C3%ADa-74a491277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a></td>
-<td width="8"></td>
-<td><a href="mailto:jesesus.testing.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a></td>
-<td width="8"></td>
-<td><a href="https://github.com/jesusgdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a></td>
-<td width="8"></td>
-<td><a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank"><img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&logo=github&logoColor=white&labelColor=2ECC71" alt="Repos" /></a></td>
-</tr>
-</table>
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/jes%C3%BAs-garc%C3%ADa-74a491277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:jesesus.testing.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/jesusgdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank"><img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&logo=github&logoColor=white&labelColor=2ECC71" alt="Repos" /></a>
 
 <br/>
 
