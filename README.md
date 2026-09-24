@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/jes%C3%BAs-garc%C3%ADa-74a491277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:jesesus.testing.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/jesusgdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank"><img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&logo=github&logoColor=white&labelColor=2ECC71" alt="Repos" /></a>
+<a href="https://linkedin.com/in/jes%C3%As-garc%C3%ADa-74a491277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:jesesus.testing.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/jesusgdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://github.com/jesusgdev?tab=repositories&sort=updated" target="_blank"><img src="https://img.shields.io/badge/Repos-2ECC71?style=flat-square&logo=github&logoColor=white&labelColor=2ECC71" alt="Repos" /></a>
 
 <br/>
 
@@ -28,28 +28,28 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=400&height=40&lines=About+Me" alt="About Me Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=420&height=50&lines=About+Me" alt="About Me Header" />
 
-I architect and build **test automation frameworks** that catch bugs before they reach production. My approach combines **risk-based testing strategies** with engineering precision to deliver **quality at scale**.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=0&color=C9D1D9&center=false&vCenter=true&multiline=true&width=780&height=110&lines=I+architect+and+build+test+automation+frameworks+that+catch+bugs;before+they+reach+production.+My+approach+combines+risk-based;testing+strategies+with+engineering+precision+to+deliver+quality+at+scale." alt="About Me paragraph" />
 
-Currently evolving the **Bunkai QA Framework** — a KATA-based test architecture using **Playwright + TypeScript** that implements domain-driven test design, automated evidence collection, and **CI/CD integration** for enterprise web apps.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=0&color=C9D1D9&center=false&vCenter=true&multiline=true&width=780&height=110&lines=Currently+evolving+the+Bunkai+QA+Framework+-+a+KATA-based+test;architecture+using+Playwright+%2B+TypeScript+with+domain-driven+test;design%2C+automated+evidence+collection%2C+and+CI%2FCD+integration." alt="About Me paragraph 2" />
 
 <br/>
 
-**What I bring to the team:**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=520&height=40&lines=What+I+bring+to+the+team" alt="What I bring header" />
 
-| | |
+| Skill | Contribution |
 |:---|:---|
-| <img src="https://img.shields.io/badge/Architecture-2ECC71?style=flat-square" alt="Architecture" /> | Designing scalable frameworks that grow with the product |
-| <img src="https://img.shields.io/badge/Automation-2ECC71?style=flat-square" alt="Automation" /> | E2E, API, and integration testing with measurable coverage |
-| <img src="https://img.shields.io/badge/Strategy-2ECC71?style=flat-square" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
-| <img src="https://img.shields.io/badge/Engineering-2ECC71?style=flat-square" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
+| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Architecture" alt="Architecture" /> | Designing scalable frameworks that grow with the product |
+| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Automation" alt="Automation" /> | E2E, API, and integration testing with measurable coverage |
+| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Strategy" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
+| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Engineering" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
 
 <br/>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=400&height=40&lines=Tech+Stack" alt="Tech Stack Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=420&height=50&lines=Tech+Stack" alt="Tech Stack Header" />
 
 <table>
 <tr>
@@ -96,45 +96,42 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=Featured+Projects" alt="Featured Projects Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=560&height=50&lines=Featured+Projects" alt="Featured Projects Header" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/jesusgdev/bunkai-qa-engineering-jesusdev">
-<img src="https://img.shields.io/badge/Bunkai_QA_Framework-2ECC71?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" alt="Bunkai" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=0&color=2ECC71&center=false&vCenter=true&width=300&height=36&lines=Bunkai+QA+Framework" alt="Bunkai QA Framework" />
 
 `TypeScript` · `Playwright` · `KATA Architecture`
 
-A production-grade test automation framework implementing **KATA (Komponent Action Test Architecture)** — a domain-driven test design with layered architecture for enterprise apps.
+A production-grade test automation framework implementing **KATA**
+(Komponent Action Test Architecture). Domain-driven test design
+built for enterprise applications.
 
-- Domain-driven ATC (Action Test Component) design
-- Playwright + TypeScript E2E & API testing
+- Domain-driven ATC design
+- Playwright + TypeScript E2E and API testing
 - CI/CD pipeline with GitHub Actions
-- Jira/Xray integration for test traceability
+- Jira/Xray integration for traceability
 - Allure reporting with evidence collection
 
-[View Repository →](https://github.com/jesusgdev/bunkai-qa-engineering-jesusdev)
+<a href="https://github.com/jesusgdev/bunkai-qa-engineering-jesusdev"><img src="https://img.shields.io/badge/View_Repository-2ECC71?style=flat-square&logo=github&logoColor=white" alt="View Bunkai" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/jesusgdev/my-dojo-lab">
-<img src="https://img.shields.io/badge/My_Dojo_Lab-FF6347?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" alt="Dojo Lab" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=0&color=FF6347&center=false&vCenter=true&width=240&height=36&lines=My+Dojo+Lab" alt="My Dojo Lab" />
 
 `TypeScript` · `Playwright` · `Testing Sandbox`
 
-A personal testing laboratory for experimenting with automation patterns, framework evolution, and quality engineering techniques.
+A personal testing laboratory for automation patterns.
+Framework evolution and quality engineering techniques.
 
 - Framework pattern exploration
-- Playwright test architecture experiments
+- Playwright architecture experiments
 - CI/CD pipeline prototyping
 - Testing methodology validation
-
-[View Repository →](https://github.com/jesusgdev/my-dojo-lab)
 
 </td>
 </tr>
@@ -144,7 +141,7 @@ A personal testing laboratory for experimenting with automation patterns, framew
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=What+I%27m+Exploring" alt="Exploring Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=560&height=50&lines=What+I%27m+Exploring" alt="Exploring Header" />
 
 ```yaml
 current_focus:
@@ -165,7 +162,7 @@ looking_at:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=0&color=8B949E&center=true&vCenter=true&multiline=true&width=500&height=40&lines=%22Quality+is+not+an+act,+it+is+a+habit.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&pause=0&color=8B949E&center=true&vCenter=true&multiline=true&width=560&height=44&lines=%22Quality+is+not+an+act,+it+is+a+habit.%22" alt="Quote" />
 
 *— Aristotle*
 
