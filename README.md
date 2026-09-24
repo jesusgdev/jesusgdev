@@ -28,28 +28,32 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=420&height=50&lines=About+Me" alt="About Me Header" />
+## About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=0&color=C9D1D9&center=false&vCenter=true&multiline=true&width=780&height=110&lines=I+architect+and+build+test+automation+frameworks+that+catch+bugs;before+they+reach+production.+My+approach+combines+risk-based;testing+strategies+with+engineering+precision+to+deliver+quality+at+scale." alt="About Me paragraph" />
+I architect and build test automation frameworks that catch bugs
+before they reach production. My approach combines risk-based
+testing strategies with engineering precision to deliver quality at scale.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=0&color=C9D1D9&center=false&vCenter=true&multiline=true&width=780&height=110&lines=Currently+evolving+the+Bunkai+QA+Framework+-+a+KATA-based+test;architecture+using+Playwright+%2B+TypeScript+with+domain-driven+test;design%2C+automated+evidence+collection%2C+and+CI%2FCD+integration." alt="About Me paragraph 2" />
+Currently evolving the Bunkai QA Framework - a KATA-based test
+architecture using Playwright + TypeScript with domain-driven test
+design, automated evidence collection, and CI/CD integration.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=520&height=40&lines=What+I+bring+to+the+team" alt="What I bring header" />
+### What I bring to the team
 
 | Skill | Contribution |
 |:---|:---|
-| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Architecture" alt="Architecture" /> | Designing scalable frameworks that grow with the product |
-| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Automation" alt="Automation" /> | E2E, API, and integration testing with measurable coverage |
-| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Strategy" alt="Strategy" /> | Shift-left practices, risk analysis, and release readiness |
-| <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&pause=0&color=2ECC71&center=true&vCenter=true&width=140&height=28&lines=Engineering" alt="Engineering" /> | TypeScript, CI/CD pipelines, and reproducible environments |
+| **Architecture** | Designing scalable frameworks that grow with the product |
+| **Automation** | E2E, API, and integration testing with measurable coverage |
+| **Strategy** | Shift-left practices, risk analysis, and release readiness |
+| **Engineering** | TypeScript, CI/CD pipelines, and reproducible environments |
 
 <br/>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=420&height=50&lines=Tech+Stack" alt="Tech Stack Header" />
+## Tech Stack
 
 <table>
 <tr>
@@ -96,13 +100,13 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=560&height=50&lines=Featured+Projects" alt="Featured Projects Header" />
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=0&color=2ECC71&center=false&vCenter=true&width=300&height=36&lines=Bunkai+QA+Framework" alt="Bunkai QA Framework" />
+### Bunkai QA Framework
 
 `TypeScript` · `Playwright` · `KATA Architecture`
 
@@ -121,7 +125,7 @@ built for enterprise applications.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=0&color=FF6347&center=false&vCenter=true&width=240&height=36&lines=My+Dojo+Lab" alt="My Dojo Lab" />
+### My Dojo Lab
 
 `TypeScript` · `Playwright` · `Testing Sandbox`
 
@@ -141,7 +145,7 @@ Framework evolution and quality engineering techniques.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=560&height=50&lines=What+I%27m+Exploring" alt="Exploring Header" />
+## What I'm Exploring
 
 ```yaml
 current_focus:
@@ -162,7 +166,7 @@ looking_at:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&pause=0&color=8B949E&center=true&vCenter=true&multiline=true&width=560&height=44&lines=%22Quality+is+not+an+act,+it+is+a+habit.%22" alt="Quote" />
+> "Quality is not an act, it is a habit."
 
 *— Aristotle*
 
