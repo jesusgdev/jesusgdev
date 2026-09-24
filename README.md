@@ -28,7 +28,7 @@
 
 <br/>
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=400&height=40&lines=About+Me" alt="About Me Header" />
 
 I architect and build **test automation frameworks** that catch bugs before they reach production. My approach combines **risk-based testing strategies** with engineering precision to deliver **quality at scale**.
 
@@ -49,7 +49,7 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=0&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=400&height=40&lines=Tech+Stack" alt="Tech Stack Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=400&height=40&lines=Tech+Stack" alt="Tech Stack Header" />
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ Currently evolving the **Bunkai QA Framework** — a KATA-based test architectur
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=0&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=Featured+Projects" alt="Featured Projects Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=Featured+Projects" alt="Featured Projects Header" />
 
 <table>
 <tr>
@@ -144,7 +144,7 @@ A personal testing laboratory for experimenting with automation patterns, framew
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=0&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=What+I'm+Exploring" alt="Exploring Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=0&color=2ECC71&center=false&vCenter=true&multiline=true&width=500&height=40&lines=What+I%27m+Exploring" alt="Exploring Header" />
 
 ```yaml
 current_focus:
@@ -165,7 +165,7 @@ looking_at:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=0&pause=0&color=8B949E&center=true&vCenter=true&multiline=true&width=500&height=40&lines=%22Quality+is+not+an+act,+it+is+a+habit.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=0&color=8B949E&center=true&vCenter=true&multiline=true&width=500&height=40&lines=%22Quality+is+not+an+act,+it+is+a+habit.%22" alt="Quote" />
 
 *— Aristotle*
 
