@@ -164,6 +164,13 @@ looking_at:
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
 
 > "Quality is not an act, it is a habit."
